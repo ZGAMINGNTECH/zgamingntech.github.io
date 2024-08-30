@@ -62,7 +62,6 @@ Simplified Chinese(**[中文简体](https://github.com/inwinter04/win11React_CN)
   - Or Try the original version of win 11 at
 (https://win11.blueedge.me/)
 
-![Answer](./public/answer.png)
 
 ## 🌟 Star this project
 
