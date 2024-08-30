@@ -8,24 +8,14 @@
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
 [![Translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.win11react.com/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blueedgetechno)
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
 ## Notice
 
 > This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
-> This is **not** a Windows 365 cloud PC.
+> This is **not** a Windows 365 cloud PC, however can be used similar to one
 
-**THIS IS NOT THE APP STORE REPO**:
-[App Store](https://github.com/win11react/store)
-
-**Documentation**:
-https://win11react-docs.andrewstech.me/
-
-## _This project is still a work in progress._
-
-#### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
 
 ![Home](./public/img/home.jpg)
 
@@ -43,25 +33,19 @@ Simplified Chinese(**[中文简体](https://github.com/inwinter04/win11React_CN)
 
 ![image](https://user-images.githubusercontent.com/89068816/154832942-b3e435dd-5fe4-4bc1-a9be-34262698625d.png)
 
-# Why
-
-WHY NOT? Why not just waste a week of your life creating a React project, just to cover up your insecurities of how incompetent you are. Just why not!
-
 # Features
 
 - [x] Start Menu, Search Menu and Widgets
 - [x] Desktop and Right Click action
 - [x] Side Navigation and Calendar View
 - [x] Snap windows in different layouts
-- [x] Browser, Store, Terminal, Calculator
+- [x] Fully-functional Cross-Browser, Store, Terminal, Calculator
 - [x] Notepad, Vscode, Whiteboard
 - [x] File Explorer + Setting
 - [x] Drag and Resize windows
 - [x] Startup and Lock screen
 - [x] Themes and Background
 - [x] Multilang Support
-
-📑 [Suggest More](https://github.com/blueedgetechno/win11React/issues/new/choose)
 
 # Stack
 
@@ -73,17 +57,10 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 ## FAQ
 
 - Is this the full operating system?
-  - No, This is not a full operating system and It is also not affiliated by Microsoft in anyway.
-- How long did it take?
-  - Honestly It took 2-3 days collecting assets, 2-3 planning and about 6 days programming it.
-- Did you use any UI/Library?
-  - No.
-- Can I contribute?
-  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/blueedgetechno/win11React/discussions) or join the [Discord](https://discord.gg/NcjaNdwtnR).
-- Where did you get the inspiration from, if you have?
-  - I got the inspiration from [this youtube video](https://www.youtube.com/watch?v=OtOmxa9UMe8).
-- What is the answer of Life, the Universe, and Everything?
-  - 42
+  - Yes, This is an edited version of blueedgetechno's win11 react repository to be a fully-functional OS in your broswer **NOT AFFILIATED OR ENDORSED BY MICROSOFT**
+  - Go See The Original Repository Code at (https://github.com/blueedgetechno/win11React/)
+  - Or Try the original version of win 11 at
+(https://win11.blueedge.me/)
 
 ![Answer](./public/answer.png)
 
