@@ -121,10 +121,7 @@ If you have one of the latest windows builds then you can enter the command belo
 1. Open `about:config` in your firefox browser.
 2. Search for `layout.css.backdrop-filter.enabled` and set it to `true`.
 
-## License
-
-⚖️ CC0-1.0 License
-
 ## Sharing
 
-Although our license does allow for this project to be reposted, modified and shared without permission from us, we do kindly ask that credits are given to the original GitHub page and the Win11 react team when reposting the project publicly.
+Credits to 
+@blueedgetechno (https://github.com/blueedgetechno/) (https://Blueedge.me/)
